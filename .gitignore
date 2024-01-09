@@ -1,0 +1,24 @@
+# .gitignore
+
+# Ignorar los archivos de configuración del IDE (VS Code)
+.vscode/
+
+# Ignorar los archivos de byte compilados de Python
+__pycache__/
+*.py[cod]
+
+# Ignorar los archivos de entorno virtual de Python
+venv/
+*.venv
+.env
+
+# Ignorar los archivos de registro
+*.log
+
+# Ignorar los archivos de la base de datos
+*.sqlite
+
+# Ignorar los archivos de distribución
+dist/
+build/
+*.egg-info/
