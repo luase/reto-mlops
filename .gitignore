@@ -1,5 +1,4 @@
 # .gitignore
-
 # Ignorar los archivos de configuración del IDE (VS Code)
 .vscode/
 
@@ -16,6 +15,7 @@ venv/
 *.log
 
 # Ignorar los archivos de la base de datos
+chroma_db/
 *.sqlite
 
 # Ignorar los archivos de distribución
